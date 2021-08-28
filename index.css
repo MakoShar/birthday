@@ -1,0 +1,22 @@
+body {
+    background-color: #fdfdfc;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.card{
+    background-color: rgb(238, 13, 88);
+    border-radius: 4px;
+    width: 160vh;
+    height: 45vw;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    text-align: center;
+}
+img.birthday{
+    max-height: 90vh;
+    
+}
+.mid{
+    opacity: o.8;
+}
